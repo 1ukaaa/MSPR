@@ -5,6 +5,6 @@ menottes 	Porte menottes
 cyno	 Bandeau agent cynophile
 talky 	Talkies walkies
 lampe 	Lampe Torche
-kit 	Kit oreillette
+kit 	Kit oreillettes
 taser 	Tasers
 lacrymo 	Bombes lacrymogènes
