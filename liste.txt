@@ -1,7 +1,7 @@
 mousqueton	Mousqueton
 gants 	Gants d'intervention
 brassard 	Brassard de sécurité
-menottes 	Porte menotte
+menottes 	Porte menottes
 cyno	 Bandeau agent cynophile
 talky 	Talkies walkies
 lampe 	Lampe Torche
