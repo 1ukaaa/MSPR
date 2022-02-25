@@ -6,3 +6,5 @@ pmNd1ldFE7WTk
 mousqueton
 lampe
 lacrymo
+brassard
+cyno
