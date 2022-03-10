@@ -6,4 +6,3 @@ Agent de sécurité qualifié
 cyno
 taser
 menottes
-brassard
