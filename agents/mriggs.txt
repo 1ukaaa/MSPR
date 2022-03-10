@@ -4,5 +4,4 @@ Superviseur
 *=42Uk6Tfy
 
 menottes
-brassard
 cyno
